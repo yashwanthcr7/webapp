@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center">Made changes with GIT</h1>
-      <h2 class="text-center">Automated deployment by yashwanth</h2>
+      <h1 class="text-center">sucessfully Depolyed in the test server  </h1>
+      <h2 class="text-center">Code built by sonata </h2>
   </div>
 </body>
 </html>
